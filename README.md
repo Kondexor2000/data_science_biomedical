@@ -8,6 +8,7 @@ Przeglądarkowa aplikacja React do eksploracji sekwencji DNA, danych genów oraz
 - Wyszukiwanie genów Homo sapiens w NCBI Gene przez E-utilities; rekordy i lokalizacja genomowa prowadzą do źródłowego wpisu NCBI.
 - Interaktywny podgląd struktur z RCSB Protein Data Bank przy użyciu 3Dmol.js. Przykładowe identyfikatory: `1CRN`, `1UBQ`, `4HHB`.
 - Bez własnego serwera i bez bazy danych. Publiczne rekordy są pobierane bezpośrednio z API NCBI/RCSB. Sekwencja analizowana w edytorze pozostaje lokalna.
+- Karta udostępniania Open Graph z autorską grafiką `public/helix-og.png` (1200 × 630) oraz opisem projektu demonstracyjnego.
 
 Podgląd RCSB prezentuje zdeponowany model struktury; aplikacja nie wykonuje predykcji struktury de novo.
 
